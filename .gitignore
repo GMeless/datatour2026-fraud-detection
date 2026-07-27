@@ -1,0 +1,25 @@
+# Données de la compétition — NE JAMAIS PUBLIER (propriété de l'organisateur)
+train.csv
+test.csv
+*.parquet
+submission*.csv
+soumissions_log/
+
+# Environnements Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+*.egg-info/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Notebooks de travail (garder uniquement solution.py propre)
+*.ipynb
+!demo.ipynb
