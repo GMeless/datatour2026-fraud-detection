@@ -110,7 +110,9 @@ Graine aléatoire fixée (`SEED=42`) sur l'ensemble des opérations stochastique
 
 ## 🎯 Prochaine étape
 
-Équipe qualifiée pour la **phase internationale** de DataTour 2026, sur un nouveau défi : système de recommandation vidéo par apprentissage automatique.
+Équipe qualifiée pour la **phase internationale de DataTour 2026** (Data Afrique Hub).
+Le sujet du défi international n'a pas encore été communiqué à ce stade — cette
+section sera mise à jour dès son annonce officielle.
 
 ---
 
