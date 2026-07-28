@@ -1,0 +1,22 @@
+{
+  "features": [
+    "amount",
+    "log_amount",
+    "origin_balance_before",
+    "origin_balance_after",
+    "destination_balance_before",
+    "destination_balance_after",
+    "origin_balance_delta",
+    "dest_balance_delta",
+    "amount_to_dest_ratio",
+    "dest_zero_before",
+    "origin_negative_after",
+    "amount_exceeds_balance",
+    "period_mod24",
+    "orig_n_unique_dest",
+    "dest_n_unique_orig",
+    "orig_te_m6"
+  ],
+  "global_mean": 0.3119066365214544,
+  "best_iteration": 37
+}
